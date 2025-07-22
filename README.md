@@ -33,7 +33,7 @@ A sustainable tool to recommend packaging sizes based on object dimensions or ca
 ---
 
 ### ✍️ Manual Dimension Input
-![Manual Input](assets/Mannual_input.png)
+![Manual Input](assets/Manual_input.png)
 
 ---
 
