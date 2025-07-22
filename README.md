@@ -25,9 +25,26 @@ A sustainable tool to recommend packaging sizes based on object dimensions or ca
 
 ## 🖼️ Demo (Screenshots)
 
-| Home Page | Object Scanning |
-|----------|-----------------|
-| ![Screenshot](assets/home.png) | ![Scan](assets/scan.png) |
+### 🏠 Homepage Views
+| Home Page 1 | Home Page 2 |
+|-------------|-------------|
+| ![HomePage1](assets/HomePage1.png) | ![HomePage2](assets/HomePage2.png) |
+
+---
+
+### ✍️ Manual Dimension Input
+![Manual Input](assets/Mannual_input.png)
+
+---
+
+### 📷 Object Scanning with Camera
+![Scanned Object](assets/ScannedObject.png)
+
+---
+
+### 📦 Final Packaging Box Suggestion
+![Box Suggestion](assets/BoxSuggestion.png)
+
 
 ---
 
