@@ -19,8 +19,7 @@ A sustainable tool to recommend packaging sizes based on object dimensions or ca
 
 - HTML, CSS, JavaScript
 - TensorFlow.js for object detection
-- GitHub Pages for deployment (live soon)
-
+- GitHub Pages for deployment ( https://saumya2005-dot.github.io/smart-packaging-recommender/ )
 ---
 
 ## 🖼️ Demo (Screenshots)
@@ -44,6 +43,13 @@ A sustainable tool to recommend packaging sizes based on object dimensions or ca
 
 ### 📦 Final Packaging Box Suggestion
 ![Box Suggestion](assets/BoxSuggestion.png)
+
+
+---
+
+## 🔗 Live Demo
+
+Check out the live site here: [Smart Packaging Recommender](https://saumya2005-dot.github.io/smart-packaging-recommender/)
 
 
 ---
